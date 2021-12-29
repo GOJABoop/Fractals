@@ -15,4 +15,4 @@ for i in range (300):
     t.forward(i * 4)
     t.right(121)
 
-input()
+turtle.mainloop()
