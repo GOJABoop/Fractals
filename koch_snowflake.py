@@ -16,7 +16,7 @@ def koch_curve(t, iterations, length, shortening_factor, angle):
 
 t = turtle.Turtle()
 t.hideturtle()
-t.speed(10)
+t.speed(0)
 
 for i in range(3):
   koch_curve(t, 4, 200, 3, 60)

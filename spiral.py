@@ -5,7 +5,7 @@ s = turtle.Screen()
 
 s.bgcolor("black")
 t.width(2)
-t.speed(10)
+t.speed(0)
 t.hideturtle()
 
 colors = ('white', 'pink', 'cyan')
